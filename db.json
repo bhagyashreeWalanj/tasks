@@ -1,14 +1,11 @@
-[
 {
-    "id": "1",
-    "title": "Hello World 1",
-    "createdAt": "01/05/2022",
-    "isCompleted": true,
-  },
-  {
-    "id": "2",
-    "title": "Hello World 2",
-    "createdAt": "01/05/2022",
-    "isCompleted": false,
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
   }
-  ]
+}
